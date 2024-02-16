@@ -18,7 +18,7 @@
       ],
       "type": "node",
       "console": "integratedTerminal",
-      "cwd": "${workspaceFolder}/src/5.custom-provider"
+      "cwd": "${workspaceFolder}/src/9.argument-host"
     },
     // {
     //   "type": "node",
